@@ -8,7 +8,7 @@ spring:
 
 aliyun:
   sms:
-    accessKeyId: LTAI4FbtopGZQhuM5L74mV2A
-    accessKeySecret: wGDeyoX1CftOXRgUXu74bHZByuTTSR
+    accessKeyId: 
+    accessKeySecret: 
     template_code: SMS_182679179
     sign_name: 点餐跑腿
